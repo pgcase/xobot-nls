@@ -40,15 +40,18 @@
 		<module>../../releng/org.pgcase.xobot.nls.target</module>
 
 		<module>../../bundles/org.pgcase.xobot.basis.runtime.nls</module>
+		<module>../../bundles/org.pgcase.xobot.basis.jface.nls</module>
+		<module>../../bundles/org.pgcase.xobot.basis.emf.edit.nls</module>
+		<module>../../bundles/org.pgcase.xobot.basis.ui.navigator.nls</module>
 		<module>../../features/org.pgcase.xobot.basis.nls.feature</module>
-		
+
 		<module>../../bundles/org.pgcase.xobot.e3.nls</module>
 		<module>../../features/org.pgcase.xobot.e3.nls.feature</module>
-		
+
 		<module>../../bundles/org.pgcase.xobot.ide.nls</module>
 		<module>../../bundles/org.pgcase.xobot.runtime.nls</module>
 		<module>../../features/org.pgcase.xobot.ide.nls.feature</module>
-		
+
 		<module>../../releng/org.pgcase.xobot.nls.repository</module>
 
 	</modules>
