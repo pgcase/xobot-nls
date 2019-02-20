@@ -19,19 +19,21 @@
 	Contributors:
 		ArSysOp - initial API and implementation
 -->
-<projectDescription>
-	<name>org.pgcase.xobot.workspace.nls.feature</name>
-	<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-		<buildCommand>
-			<name>org.eclipse.pde.FeatureBuilder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-	</buildSpec>
-	<natures>
-		<nature>org.eclipse.pde.FeatureNature</nature>
-	</natures>
-</projectDescription>
+<feature
+      id="org.pgcase.xobot.license.feature"
+      label="%label"
+      version="0.1.0.qualifier">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      Copyright (c) 2018-2019 ArSysOp
+   </copyright>
+
+   <license url="%licenseUrl">
+      %license
+   </license>
+
+</feature>

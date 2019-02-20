@@ -38,23 +38,24 @@
 	<feature
 		url="features/org.pgcase.xobot.landscape.nls.feature_0.1.0.qualifier.jar"
 		id="org.pgcase.xobot.landscape.nls.feature"
-		version="0.1.0.qualifier">
+		version="0.1.0.qualifier"
+	>
 		<category name="org.pgcase.xobot.nls.category" />
 	</feature>
-<!-- uncomment after adding features
 	<feature
 		url="features/org.pgcase.xobot.toolchain.nls.feature_0.1.0.qualifier.jar"
 		id="org.pgcase.xobot.toolchain.nls.feature"
-		version="0.1.0.qualifier">
+		version="0.1.0.qualifier"
+	>
 		<category name="org.pgcase.xobot.nls.category" />
 	</feature>
 	<feature
 		url="features/org.pgcase.xobot.workspace.nls.feature_0.1.0.qualifier.jar"
 		id="org.pgcase.xobot.workspace.nls.feature"
-		version="0.1.0.qualifier">
+		version="0.1.0.qualifier"
+	>
 		<category name="org.pgcase.xobot.nls.category" />
 	</feature>
--->
 	<feature
 		url="features/org.pgcase.xobot.ide.nls.feature_0.1.0.qualifier.jar"
 		id="org.pgcase.xobot.ide.nls.feature"

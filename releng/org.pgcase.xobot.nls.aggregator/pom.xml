@@ -44,9 +44,9 @@
 		<module>../../bundles/org.pgcase.xobot.basis.emf.edit.nls</module>
 		<module>../../bundles/org.pgcase.xobot.basis.ui.navigator.nls</module>
 		<module>../../features/org.pgcase.xobot.basis.nls.feature</module>
-		
+
 		<module>../../bundles/org.pgcase.xobot.parsers.nls</module>
-		
+
 		<module>../../bundles/org.pgcase.xobot.dbproc.antlr.nls</module>
 		<module>../../bundles/org.pgcase.xobot.dbproc.core.nls</module>
 		<module>../../bundles/org.pgcase.xobot.dbproc.core.resources.nls</module>
@@ -56,7 +56,7 @@
 		<module>../../bundles/org.pgcase.xobot.dbproc.team.ui.nls</module>
 		<module>../../bundles/org.pgcase.xobot.dbproc.ui.navigator.nls</module>
 		<module>../../features/org.pgcase.xobot.dbproc.nls.feature</module>
-		
+
 		<module>../../bundles/org.pgcase.xobot.landscape.core.nls</module>
 		<module>../../bundles/org.pgcase.xobot.landscape.model.nls</module>
 		<module>../../bundles/org.pgcase.xobot.landscape.model.ecore.nls</module>
@@ -65,14 +65,31 @@
 		<module>../../bundles/org.pgcase.xobot.landscape.ui.navigator.nls</module>
 		<module>../../features/org.pgcase.xobot.landscape.nls.feature</module>
 
+		<module>../../bundles/org.pgcase.xobot.workspace.core.nls</module>
+		<module>../../bundles/org.pgcase.xobot.workspace.core.resources.nls</module>
+		<module>../../bundles/org.pgcase.xobot.workspace.model.nls</module>
+		<module>../../bundles/org.pgcase.xobot.workspace.model.ecore.nls</module>
+		<module>../../bundles/org.pgcase.xobot.workspace.model.edit.nls</module>
+		<module>../../bundles/org.pgcase.xobot.workspace.runtime.nls</module>
+		<module>../../bundles/org.pgcase.xobot.workspace.team.core.nls</module>
+		<module>../../bundles/org.pgcase.xobot.workspace.team.ui.nls</module>
+		<module>../../bundles/org.pgcase.xobot.workspace.ui.ide.nls</module>
+		<module>../../bundles/org.pgcase.xobot.workspace.ui.navigator.nls</module>
+		<module>../../features/org.pgcase.xobot.workspace.nls.feature</module>
+
 		<module>../../bundles/org.pgcase.xobot.e3.nls</module>
 		<module>../../features/org.pgcase.xobot.e3.nls.feature</module>
+
+		<module>../../bundles/org.pgcase.xobot.toolchain.runtime.nls</module>
+		<module>../../features/org.pgcase.xobot.toolchain.nls.feature</module>
 
 		<module>../../bundles/org.pgcase.xobot.ide.nls</module>
 		<module>../../bundles/org.pgcase.xobot.runtime.nls</module>
 		<module>../../features/org.pgcase.xobot.ide.nls.feature</module>
 
 		<module>../../releng/org.pgcase.xobot.nls.repository</module>
+		
+		<module>../../features/org.pgcase.xobot.license.nls.feature</module>
 
 	</modules>
 
