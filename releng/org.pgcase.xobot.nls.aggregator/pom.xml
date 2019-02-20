@@ -41,7 +41,10 @@
 
 		<module>../../bundles/org.pgcase.xobot.basis.runtime.nls</module>
 		<module>../../features/org.pgcase.xobot.basis.nls.feature</module>
-
+		
+		<module>../../bundles/org.pgcase.xobot.e3.nls</module>
+		<module>../../features/org.pgcase.xobot.e3.nls.feature</module>
+		
 		<module>../../releng/org.pgcase.xobot.nls.repository</module>
 
 	</modules>

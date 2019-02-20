@@ -57,13 +57,14 @@
 		version="0.1.0.qualifier">
 		<category name="org.pgcase.xobot.nls.category" />
 	</feature>
+-->
 	<feature
 		url="features/org.pgcase.xobot.e3.nls.feature_0.1.0.qualifier.jar"
 		id="org.pgcase.xobot.e3.nls.feature"
 		version="0.1.0.qualifier">
 		<category name="org.pgcase.xobot.nls.category" />
 	</feature>
--->
+
 	<category-def
 		name="org.pgcase.xobot.nls.category"
 		label="Xobot NLS">
